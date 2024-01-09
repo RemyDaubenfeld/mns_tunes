@@ -1,4 +1,4 @@
-# programme principal
+# programme principal 
 
-# connexion à la base de donnée
+# connexion à la base de donnée sur phpmyadmin
 
